@@ -1,3 +1,7 @@
+Simple example of Environment Variables in a Create React App on Netlify
+
+-----------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
