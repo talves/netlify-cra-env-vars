@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+console.log(`netlify-cra-env-vars v${process.env.REACT_APP_VERSION}`)
+
 class App extends Component {
   render() {
     return (
